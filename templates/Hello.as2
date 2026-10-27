@@ -1,0 +1,2 @@
+// [{{node.id}}] hello/Hello@1
+"Hello, " + String({{in.name}}) + "!"

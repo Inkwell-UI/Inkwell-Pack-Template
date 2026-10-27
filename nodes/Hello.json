@@ -1,0 +1,23 @@
+{
+  "kind": "Hello",
+  "major": 1,
+  "title": "Hello",
+  "category": "Text",
+  "pure": true,
+  "inputs": [
+    {
+      "name": "name",
+      "type": "String",
+      "default": "World"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "text",
+      "type": "String",
+      "default": ""
+    }
+  ],
+  "fields": {},
+  "as2Template": "templates/Hello.as2"
+}
